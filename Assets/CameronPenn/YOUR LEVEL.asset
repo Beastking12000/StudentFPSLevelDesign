@@ -15,5 +15,5 @@ MonoBehaviour:
   sceneName: Cameron_Manor_Map
   displayName: Manor madness
   creatorName: By Cameron Penn
-  levelPrefab: {fileID: 5115060657782514083, guid: f6ca98d3746f205478cc70141f533645, type: 3}
+  levelPrefab: {fileID: 2522378528712058498, guid: 6bb4ec9c98bd4d44b80e4e73af72dbb4, type: 3}
   previewScale: {x: 0.1, y: 0.1, z: 0.1}
